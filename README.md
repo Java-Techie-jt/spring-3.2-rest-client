@@ -1,0 +1,1 @@
+# spring-3.2-rest-client
